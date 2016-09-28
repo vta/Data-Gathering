@@ -13,6 +13,7 @@ Santa Clara County VTA provides transportation services to the general public in
 With the expanding population and rapid growth of companies in Santa Clara County, it is important for the VTA to understand where people work in relationship to where they live since most people use the VTA to get to and from work.  If the VTA can get a clear picture of this data, it will enable them to create more efficient bus routes, serving the most people with a finite set of resources. Data about where people live and work is available in many forms and from many sources. The VTA needs to find this data and figure out ways to parse and make sense of it in order to optimize bus routes.
 
 Project Scope: 
+	
 	Functional Scope:
 Create Python scripts that will scrape source sites
 Locate work/home data specific to San Jose/Santa Clara County residents
@@ -26,19 +27,16 @@ Input data through Github
 URL path, Agency, Title, Detailed Description of Data, Describe how the data was collected
 Explain how useful is the data.
 
-
-Project Constraints: 
+	Project Constraints: 
 No team member currently knows how to write scripts in Python
 There is a limit of reliable research data that we are able to gather
 Data sets required for modeling purposes may be hard to come by
 
-
-
-Project Assumption: 
+	Project Assumption: 
 VTA does not have any raw data document consolidated in one area
 
 
-Milestone:
+	Milestone:
 	09/12/16	Data Search Week 1 (5 raw data sets)
 	09/19/16	Project Charter 
 	09/19/16	Data Search Week 2 (10 raw data sets)
@@ -48,11 +46,11 @@ Milestone:
 	10/24/16	Create Charts and Graphs
 	10/31/16	Write Python Codes
 
-Project Team Approval: 
+	Project Team Approval: 
 
 
 
-Project Sponsor: 
+	Project Sponsor: 
 
 
 
