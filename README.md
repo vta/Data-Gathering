@@ -4,9 +4,6 @@ Synopsis
 
 This project is a collaboration between the Santa Clara County VTA and San Jose State University MIS proram. The purpose of the project is to create Python scripts, which will scrape select websites that offer data specific to where the population of Santa Clara lives and works. Once data sources have been completed in the data.csv file, Python scripts will be created to scrape those data sites.
 
-Code Example
-
-Once Python scripts are available, samples will be put here.
 
 Motivation
 
@@ -15,10 +12,6 @@ Santa Clara County VTA currently lacks the information required to design more e
 Installation
 
 No installation is required. Python scripts will be provided as they become available.
-
-Tests
-
-Tests will be made availble once the Python scripts are available.
 
 Contributors
 
