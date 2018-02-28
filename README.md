@@ -1,5 +1,9 @@
 # VTA Data-Gathering
 
+This was a researcd project conducted by SJSU Business students over a semester in conjuction with the GIS team at the VTA to gather sources of data for potential modeling uses.
+
+For more city or county specific data sources check out the [GIS Resources Repo](https://github.com/vta/GIS-Resources-Santa-Clara-County)
+
 --------------------------
 
 ### Government Direct or Direct Non-Government
